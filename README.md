@@ -16,7 +16,7 @@ you describe the layout in json and the renderer builds it in figma. it calls th
 
 ### when i use it
 
-- building a screen from our components and tokens instead of placing layers by hand
+- building a screen from the components and tokens in the file instead of placing layers by hand
 - making the arabic version of a screen from the same spec, with the layout and icons mirrored
 - importing design tokens (dtcg resolver format) as figma variables and text styles
 - catching hand edits, since spec-parity fails once a frame drifts from its spec
