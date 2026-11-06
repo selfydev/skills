@@ -30,6 +30,7 @@ write a layout as json and get the screen in figma. one tested renderer handles 
   "size": [390, 240],
   "direction": "ltr",
   "fill": "color.surface",
+  "textColor": "color.text",
   "pad": "space.inset.md",
   "gap": "space.stack.sm",
   "children": [
