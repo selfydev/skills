@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+design-reply/threads/
+.figma-render/

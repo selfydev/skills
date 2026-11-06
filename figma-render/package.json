@@ -1,0 +1,9 @@
+{
+  "name": "figma-render",
+  "version": "0.1.0",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "figma-render": "bin/figma-render.mjs"
+  }
+}
